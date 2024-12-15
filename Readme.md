@@ -5,7 +5,7 @@ This implementation transforms RUBY html (default in ANKI and other Japanese lea
 > Example of the output: [Eir Aoi - Ignite (Cover)](https://youtu.be/86kll8ww1rk)
 
 Reference image:
-![sentence_8](https://github.com/user-attachments/assets/f1a9f389-d7ac-48e5-92dd-4e1b977bfab1)
+![sentence_8](https://github.com/user-attachments/assets/a1d6b2ae-4eb2-46a2-bea8-0f8277200757)
 
 # Steps
 This is an example of the usage I did for my cover song. It should be of use as a blueprint for you. And it's also easier to explain.
