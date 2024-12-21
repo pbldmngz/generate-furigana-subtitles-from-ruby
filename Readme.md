@@ -2,8 +2,6 @@
 
 This implementation transforms RUBY html (default in ANKI and other Japanese learning tools) into a timeline element compatible, at least, with Davinci Resolve and Premiere Pro.
 
-> Example of the output: [Eir Aoi - Ignite (Cover)](https://youtu.be/86kll8ww1rk)
-
 Reference image:
 ![sentence_8](https://github.com/user-attachments/assets/a1d6b2ae-4eb2-46a2-bea8-0f8277200757)
 
